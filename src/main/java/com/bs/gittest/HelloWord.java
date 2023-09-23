@@ -9,5 +9,6 @@ public class HelloWord {
         System.out.println("Hello hot test");
         System.out.println("Hello hot1 test");
         System.out.println("Hello hot2 test");
+        System.out.println("推送");
     }
 }
